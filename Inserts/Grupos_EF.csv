@@ -1,0 +1,93 @@
+ID	Nombre	Apellido	Camisola	Seleccion	Puesto	Club	
+369	Hugo	Lloris	1	19	1	(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'FC Bayern Muenchen');	
+370	Mathieu	Debuchy	2	19	2	(SELECT ID_CLUB FROM CLUBES  WHERE NOMBRE = 'Borussia Dortmund');	
+371	Patrice	Evra	3	19	2	(SELECT ID_CLUB FROM CLUBES  WHERE NOMBRE = 'SC Freiburg');	
+372	Raphaël	Varane	4	19	2	(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'FC Schalke 04');	
+373	Mamadou	Sakho	5	19	2	(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'FC Schalke 04');	
+374	Yohan	Cabaye	6	19	3	(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Real Madrid');	
+375	Rémy 	Cabella	7	19	4	(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'FC Bayern Muenchen');	
+376	Mathieu	Valbuena	8	19	3	(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Arsenal FC');	
+377	Oliver	Giroud	9	19	4	(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Chelsea FC');	
+378	Karim	Benzema	10	19	4	(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Arsenal FC');	
+379	Antonie	Griezmann	11	19	4	(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = ' SS Lazio');	
+380	Rio	Mavuba	12	19	3	(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Hannover 96');	
+381	Eliaquim	Mangala	13	19	2	(SELECT ID_CLUBFROM CLUBES WHERE NOMBRE = 'FC Bayern Muenchen');	
+382	Blaise	Matuidi	14	19	3	(SELECT ID_CLUBFROM CLUBES WHERE NOMBRE = 'Borussia Dortmund');	
+383	Bacary	Sagna	15	19	2	(SELECT ID_CLUBFROM CLUBES WHERE NOMBRE = 'FC Bayern Muenchen');	
+384	Stéphane	Ruffier	16	19	1	(SELECT ID_CLUBFROM CLUBES WHERE NOMBRE = 'Arsenal FC');	
+385	Lucas	Digne	17	19	2	(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'FC Bayern Muenchen');	
+386	Moussa	Sissoko	18	19	3	(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'FC Bayern Muenchen');	
+387	Paul	Pogba	19	19	3	(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'FC Bayern Muenchen');	
+388	Loïc 	Remy	20	19	4	(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'FC Bayern Muenchen');	
+389	Laurent	Koscielny	21	19	2	(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'UC Sampdoria');	
+390	Morgan	Schneiderlin	22	19	3	(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Borussia Dortmund');	
+391	Mickael	Landreu	23	19	1	(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = ' Borussia Moenchengladbach');	
+392	Diego	Benaglio	1	17	1		
+393	Stephan	Lichtsteiner	2	17	2		
+394	Reto	Ziegler	3	17	2		
+395			4	17	2		
+396			5	17	2		414
+397			6	17	2		
+398			7	17	3		
+399			8	17	3		
+400			9	17	4		
+401			10	17	3		
+402			11	17	3		
+403			12	17	1		
+404			13	17	2		
+405			14	17	3		
+406			15	17	3		
+407			16	17	3		
+408			17	17	4		
+409			18	17	4		
+410			19	17	4		
+411			20	17	2		
+412			21	17	1		
+413			22	17	2		
+414			23	17	3		
+415			1	18			
+416			2	18			
+417			3	18			
+418			4	18			
+419			5	18			
+420			6	18			
+421			7	18			
+422			8	18			
+423			9	18			
+424			10	18			
+425			11	18			
+426			12	18			
+427			13	18			
+428			14	18			
+429			15	18			
+430			16	18			
+431			17	18			
+432			18	18			
+433			19	18			
+434			20	18			
+435			21	18			
+436			22	18			
+437			23	18			
+438			1	20			
+439			2	20			
+440			3	20			
+441			4	20			
+442			5	20			
+443			6	20			
+444			7	20			
+445			8	20			
+446			9	20			
+447			10	20			
+448			11	20			
+449			12	20			
+450			13	20			
+451			14	20			
+452			15	20			
+453			16	20			
+454			17	20			
+455			18	20			
+456			19	20			
+457			20	20			
+458			21	20			
+459			22	20			
+460			23	20			
