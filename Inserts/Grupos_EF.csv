@@ -1,93 +1,187 @@
-ID	Nombre	Apellido	Camisola	Seleccion	Puesto	Club	
-369	Hugo	Lloris	1	19	1	(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'FC Bayern Muenchen');	
-370	Mathieu	Debuchy	2	19	2	(SELECT ID_CLUB FROM CLUBES  WHERE NOMBRE = 'Borussia Dortmund');	
-371	Patrice	Evra	3	19	2	(SELECT ID_CLUB FROM CLUBES  WHERE NOMBRE = 'SC Freiburg');	
-372	Rapha�l	Varane	4	19	2	(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'FC Schalke 04');	
-373	Mamadou	Sakho	5	19	2	(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'FC Schalke 04');	
-374	Yohan	Cabaye	6	19	3	(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Real Madrid');	
-375	R�my 	Cabella	7	19	4	(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'FC Bayern Muenchen');	
-376	Mathieu	Valbuena	8	19	3	(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Arsenal FC');	
-377	Oliver	Giroud	9	19	4	(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Chelsea FC');	
-378	Karim	Benzema	10	19	4	(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Arsenal FC');	
-379	Antonie	Griezmann	11	19	4	(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = ' SS Lazio');	
-380	Rio	Mavuba	12	19	3	(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Hannover 96');	
-381	Eliaquim	Mangala	13	19	2	(SELECT ID_CLUBFROM CLUBES WHERE NOMBRE = 'FC Bayern Muenchen');	
-382	Blaise	Matuidi	14	19	3	(SELECT ID_CLUBFROM CLUBES WHERE NOMBRE = 'Borussia Dortmund');	
-383	Bacary	Sagna	15	19	2	(SELECT ID_CLUBFROM CLUBES WHERE NOMBRE = 'FC Bayern Muenchen');	
-384	St�phane	Ruffier	16	19	1	(SELECT ID_CLUBFROM CLUBES WHERE NOMBRE = 'Arsenal FC');	
-385	Lucas	Digne	17	19	2	(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'FC Bayern Muenchen');	
-386	Moussa	Sissoko	18	19	3	(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'FC Bayern Muenchen');	
-387	Paul	Pogba	19	19	3	(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'FC Bayern Muenchen');	
-388	Lo�c 	Remy	20	19	4	(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'FC Bayern Muenchen');	
-389	Laurent	Koscielny	21	19	2	(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'UC Sampdoria');	
-390	Morgan	Schneiderlin	22	19	3	(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Borussia Dortmund');	
-391	Mickael	Landreu	23	19	1	(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = ' Borussia Moenchengladbach');	
-392	Diego	Benaglio	1	17	1		
-393	Stephan	Lichtsteiner	2	17	2		
-394	Reto	Ziegler	3	17	2		
-395			4	17	2		
-396			5	17	2		414
-397			6	17	2		
-398			7	17	3		
-399			8	17	3		
-400			9	17	4		
-401			10	17	3		
-402			11	17	3		
-403			12	17	1		
-404			13	17	2		
-405			14	17	3		
-406			15	17	3		
-407			16	17	3		
-408			17	17	4		
-409			18	17	4		
-410			19	17	4		
-411			20	17	2		
-412			21	17	1		
-413			22	17	2		
-414			23	17	3		
-415			1	18			
-416			2	18			
-417			3	18			
-418			4	18			
-419			5	18			
-420			6	18			
-421			7	18			
-422			8	18			
-423			9	18			
-424			10	18			
-425			11	18			
-426			12	18			
-427			13	18			
-428			14	18			
-429			15	18			
-430			16	18			
-431			17	18			
-432			18	18			
-433			19	18			
-434			20	18			
-435			21	18			
-436			22	18			
-437			23	18			
-438			1	20			
-439			2	20			
-440			3	20			
-441			4	20			
-442			5	20			
-443			6	20			
-444			7	20			
-445			8	20			
-446			9	20			
-447			10	20			
-448			11	20			
-449			12	20			
-450			13	20			
-451			14	20			
-452			15	20			
-453			16	20			
-454			17	20			
-455			18	20			
-456			19	20			
-457			20	20			
-458			21	20			
-459			22	20			
-460			23	20			
+﻿ID,Nombre,Apellido,Camisola,Seleccion,Puesto,Club,,,,,
+369,Hugo,Lloris,1,19,1,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Tottenham Hotspur F. C.');,,,,,
+370,Mathieu,Debuchy,2,19,2,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'VfB Sturrgart');,,,,,
+371,Patrice,Evra,3,19,2,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'París Saint-Germain F. Sturrnt-Germain F. C.');,,,,,
+372,Raphaël,Varane,4,19,2,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Real Madrid C. Sturrid C. F.');,,,,,
+373,Mamadou,Sakho,5,19,2,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'F. C. Sturrcelona');,,,,,
+374,Yohan,Cabaye,6,19,3,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Manchester United F. Sturrr United F. C.');,,,,,
+375,Rémy ,Cabella,7,19,4,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Atlético de Sturrde Madrid');,,,,,
+376,Mathieu,Valbuena,8,19,3,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'A. S. Mónaco F. Sturraco F. C.');,,,,,
+377,Oliver,Giroud,9,19,4,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Chelsea F. Sturr. C.');,,,,,
+378,Karim,Benzema,10,19,4,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'París Saint-Germain F. Sturrnt-Germain F. C.');,,,,,
+379,Antonie,Griezmann,11,19,4,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'F. C. Sturrcelona');,,,,,
+380,Rio,Mavuba,12,19,3,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'F. C. Bayern Sturrern Múnich');,,,,,
+381,Eliaquim,Mangala,13,19,2,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Chelsea F. Sturr. C.');,,,,,
+382,Blaise,Matuidi,14,19,3,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Juventus F. SturrF. C.');,,,,,
+383,Bacary,Sagna,15,19,2,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'París Saint-Germain F. Sturrnt-Germain F. C.');,,,,,
+384,Stéphane,Ruffier,16,19,1,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Olympique de Sturr de Marsella');,,,,,
+385,Lucas,Digne,17,19,2,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'F. C. Sturrcelona');,,,,,
+386,Moussa,Sissoko,18,19,3,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Olympique de Sturr de Marsella');,,,,,
+387,Paul,Pogba,19,19,3,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'A. S. Mónaco F. Sturraco F. C.');,,,,,
+388,Loïc ,Remy,20,19,4,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Manchester United F. Sturrr United F. C.');,,,,,
+389,Laurent,Koscielny,21,19,2,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Arsenal F. Sturr. C.');,,,,,
+390,Morgan,Schneiderlin,22,19,3,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Atlético de Sturrde Madrid');,,,,,
+391,Mickael,Landreu,23,19,1,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'París Saint-Germain F. Sturrnt-Germain F. C.');,,,,,
+392,Diego,Benaglio,1,17,1,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Wolfsburgo');,,,,,
+393,Stephan,Lichtsteiner,2,17,2,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Juventus');,,,,,
+394,Reto,Ziegler,3,17,2,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Sassuolo');,,,,,
+395,Philippe,Senderos,4,17,2,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Valencia');,,,,,
+396,Steve,Von Bergen,5,17,2,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Young Boys');,,,,,
+397,Michael,Lang,6,17,2,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Grasshopper');,,,,,
+398,Tranquillo,Barnetta,7,17,3,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Eintracht Frankfurt');,,,,,
+399,Gokhan,Inler,8,17,3,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Napoli');,,,,,
+400,Haris,Seferovic,9,17,4,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Real Sociedad');,,,,,
+401,Granit,Xhaka,10,17,3,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Borussia Mönchengladbach');,,,,,
+402,Valon,Behrami,11,17,3,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Napoli');,,,,,
+403,Yann,Sommer,12,17,1,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Basilea');,,,,,
+404,Ricardo,Rodriguez,13,17,2,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Wolfsburgo');,,,,,
+405,Valentin,Stocker,14,17,3,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Basilea');,,,,,
+406,Blerim,Dzemaili,15,17,3,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Napoli');,,,,,
+407,Gelson,Fernandes,16,17,3,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Friburgo');,,,,,
+408,Mario,Gavranovic,17,17,4,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Zürich');,,,,,
+409,Admir,Mehmedi,18,17,4,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Friburgo');,,,,,
+410,Josip,Drmic,19,17,4,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Núremberg');,,,,,
+411,Johan,Djourou,20,17,2,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Hamburgo');,,,,,
+412,Roman,BÜRKI,21,17,1,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Grasshopper');,,,,,
+413,Fabian,Schaer,22,17,2,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Basilea');,,,,,
+414,Xherdan,Shaqiri,23,17,3,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Bayern de Múnich');,,,,,
+415,Maximo ,Banguerra,1,18,1,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Barcelona');,,,,,
+416,Jorge,Guagua,2,18,2,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Emelec');,,,,,
+417,Frickson,Erazo,3,18,2,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Flamengo');,,,,,
+418,Juan,Paredes,4,18,2,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Barcelona');,,,,,
+419,Alex,Ibarra,5,18,3,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Vitesse');,,,,,
+420,Christian,Noboa,6,18,3,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Dinamo Moscú');,,,,,
+421,Jefferson,Montero,7,18,3,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Morelia');,,,,,
+422,Edison ,Mendez,8,18,3,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Independiente Santa Fe');,,,,,
+423,Joao,Rojas,9,18,4,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Cruz Azul');,,,,,
+424,Walter,Ayovi,10,18,3,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Pachuca');,,,,,
+425,Felipe,Caicedo,11,18,4,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Al-Jazira');,,,,,
+426,Adrian,Bone,12,18,1,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'El Nacional');,,,,,
+427,Enner,Valencia,13,18,4,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Pachuca');,,,,,
+428,Oswaldo,Minda,14,18,3,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Chivas USA');,,,,,
+429,Michael,Arroyo,15,18,3,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'América');,,,,,
+430,Antonio,Valencia,16,18,3,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Manchester United');,,,,,
+431,Jaimen,Ayovi,17,18,4,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Tijuana');,,,,,
+432,Oscar,Bagui,18,18,2,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Emelec');,,,,,
+433,Luis,Saritama,19,18,3,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Barcelona');,,,,,
+434,Fidel,Martinez,20,18,3,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Tijuana');,,,,,
+435,Gabriel,Achilier,21,18,2,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Emelec');,,,,,
+436,Alexander,Dominguez,22,18,1,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'LDU Quito');,,,,,
+437,Carlos,Gruezo,23,18,3,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Stuttgart');,,,,,
+438,Luis,Lopez,1,20,1,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Real España');,,,,,
+439,Osman,Chavez,2,20,2,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Qingdao Jonoon');,,,,,
+440,Maynor,Figueroa,3,20,2,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Hull City');,,,,,
+441,Juan Pablo,Montes,4,20,2,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Motagua');,,,,,
+442,Victor ,Bernardez,5,20,2,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'San Jose Earthquakes');,,,,,
+443,Juan Carlor,Garcia,6,20,2,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Wigan Athletic');,,,,,
+444,Emilio,Izaguirre,7,20,3,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Celtic');,,,,,
+445,Wilson,Palacios,8,20,3,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Stoke City');,,,,,
+446,Jerry,Palacios,9,20,3,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Alajuelense');,,,,,
+447,Mario,Martinez,10,20,3,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Real España');,,,,,
+448,Jerry,Bengtson,11,20,4,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'C.A. Belgrano');,,,,,
+449,Edder,Delgado,12,20,3,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Real España');,,,,,
+450,Carlos,Costly,13,20,4,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Gaziantepspor');,,,,,
+451,Boniek,Garcia,14,20,3,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Houston Dynamo');,,,,,
+452,Roger,Espinoza,15,20,3,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Wigan Athletic');,,,,,
+453,Rony,Martinez,16,20,4,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Real Sociedad');,,,,,
+454,Andy,Najar,17,20,3,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Anderlecht');,,,,,
+455,Noel,Valladares,18,20,1,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Olimpia');,,,,,
+456,Luis,Garrido,19,20,3,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Houston Dynamo');,,,,,
+457,Jorge,Claros,20,20,3,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Sporting Kansas City');,,,,,
+458,Brayan,Beckeles,21,20,2,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Boavista');,,,,,
+459,Donis,Escober,22,20,1,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Olimpia');,,,,,
+460,Marvin,Chavez,23,20,3,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Chivas USA');,,,,,
+461,Sergio ,Romero,1,21,1,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Mónaco');,,,,,
+462,Ezequiel, Garay,2,21,2,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Benfica');,,,,,
+463,Hugo ,Campagnaro,3,21,2,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Inter de Milán');,,,,,
+464,Pablo ,Zabaleta,4,21,2,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Manchester City');,,,,,
+465,Fernando ,Gago,5,21,3,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Boca Juniors');,,,,,
+466,Lucas ,Biglia,6,21,3,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Lazio');,,,,,
+467,Ángel ,Di María,7,21,3,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Real Madrid');,,,,,
+468,Enzo, Pérez,8,21,3,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Benfica');,,,,,
+469,Gonzalo ,Higuaín,9,21,4,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Napoli');,,,,,
+470,Lionel ,Messi ,10,21,4,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Barcelona');,,,,,
+471,Maximiliano ,Rodríguez,11,21,3,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Newell's Old Boys');,,,,,
+472,Agustín ,Orion,12,21,1,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Boca Juniors');,,,,,
+473,Augusto ,Fernández,13,21,3,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Celta de Vigo');,,,,,
+474,Javier ,Mascherano,14,21,3,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Barcelona');,,,,,
+475,Martín ,Demichelis,15,21,2,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Manchester City');,,,,,
+476,Marcos, Rojo,16,21,2,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Sporting de Lisboa');,,,,,
+477,Federico ,Fernández,17,21,2,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Napoli');,,,,,
+478,Rodrigo ,Palacio,18,21,4,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Inter de Milán');,,,,,
+479,Ricardo ,Álvarez,19,21,3,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Inter de Milán');,,,,,
+480,Sergio ,Agüero,20,21,4,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Manchester City');,,,,,
+481,Mariano ,Andújar,21,21,1,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Napoli');,,,,,
+482,Ezequiel ,Lavezzi,22,21,4,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'París Saint-Germain');,,,,,
+483,José ,Basanta,23,21,2,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Monterrey');,,,,,
+484,Vincent  ,Enyeama,1,24,1,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Lille');,,,,,
+485,Joseph ,Yobo,2,24,2,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Fenerbahçe');,,,,,
+486,Ejike ,Uzoenyi ,3,24,3,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Enugu Rangers');,,,,,
+487,Reuben ,Gabriel,4,24,3,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Waasland-Beveren');,,,,,
+488,Efe ,Ambrose,5,24,2,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Celtic');,,,,,
+489,Azubuike ,Egwuekwe,6,24,2,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Warri Wolves');,,,,,
+490,Ahmed, Musa,7,24,4,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'CSKA Moscú');,,,,,
+491,Peter ,Odemwingie,8,24,4,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Stoke City');,,,,,
+492,Emmanuel ,Emenike,9,24,4,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Fenerbahçe');,,,,,
+493,John ,Obi Mikel,10,24,3,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Chelsea');,,,,,
+494,Victor ,Moses,11,24,4,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Chelsea');,,,,,
+495,Kunle ,Odunlami,12,24,2,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Sunshine Stars');,,,,,
+496,Juwon ,Oshaniwa,13,24,2,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Ashdod');,,,,,
+497,Godfrey ,Oboabona,14,24,2,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Çaykur Rizespor');,,,,,
+498,Ramon ,Azeez,15,24,3,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Almería');,,,,,
+499,Austin ,Ejide,16,24,1,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Hapoel Be'er Sheva');,,,,,
+500,Ogenyi ,Onazi,17,24,3,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Lazio');,,,,,
+501,Michel ,Babatunde,18,24,4,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Volyn Lutsk');,,,,,
+502,Uche ,Nwofor,19,24,4,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'VVV Venlo');,,,,,
+503,Michael ,Uchebo,20,24,4,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Cercle Brugge');,,,,,
+504,Chigozie ,Agbim,21,24,1,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Gombe United');,,,,,
+505,Kenneth ,Omeruo,22,24,2,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Chelsea');,,,,,
+506,Shola ,Ameobi,23,24,4,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = '');,,,,,
+507,Asmir ,Begović,1,22,1,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Stoke City');,,,,,
+508,Avdija ,Vršajević,2,22,3,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Hajduk Split');,,,,,
+509,Ermin ,Bičakčić,3,22,2,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Eintracht Braunschweig');,,,,,
+510,Emir ,Spahić ,4,22,2,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Bayer 04 Leverkusen');,,,,,
+511,Sead ,Kolašinac,5,22,2,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Schalke 04');,,,,,
+512,Ognjen ,Vranješ,6,22,2,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Elazığspor');,,,,,
+513,Muhamed, Bešić,7,22,3,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Ferencváros');,,,,,
+514,Miralem ,Pjanić,8,22,3,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Roma');,,,,,
+515,Vedad ,Ibišević,9,22,4,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Stuttgart');,,,,,
+516,Zvjezdan ,Misimović,10,22,3,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Guizhou Renhe');,,,,,
+517,Edin, Džeko,11,22,4,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Manchester City');,,,,,
+518,Jasmin ,Fejzić,12,22,1,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Aalen');,,,,,
+519,Mensur ,Mujdža,13,22,3,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Friburgo');,,,,,
+520,Tino ,Sušić,14,22,3,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Hajduk Split');,,,,,
+521,Toni ,Šunjić,15,22,2,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Zorya Lugansk');,,,,,
+522,Senad ,Lulić,16,22,3,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Lazio');,,,,,
+523,Senijad ,Ibričić,17,22,3,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Erciyesspor');,,,,,
+524,Haris ,Medunjanin,18,22,3,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Gaziantepspor');,,,,,
+525,Edin, Višća,19,22,4,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Istanbul Başakşehir');,,,,,
+526,Izet, Hajrović,20,22,3,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Galatasaray');,,,,,
+527,Anel ,Hadžić,21,22,3,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Sturm Graz');,,,,,
+528,Asmir ,Avdukić,22,22,1,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Borac Banja Luka');,,,,,
+529,Sejad ,Salihović,23,22,3,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Hoffenheim');,,,,,
+530,Rahman ,Ahmadi,1,23,1,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Sepahan');,,,,,
+531,Khosro ,Heydari,2,23,4,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Esteghlal');,,,,,
+532,Ehsan ,Hajsafi,3,23,3,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Sepahan');,,,,,
+533,Jalal ,Hosseini,4,23,2,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Persépolis');,,,,,
+534,Amir ,Hossein Sadeghi,5,23,2,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Esteghlal');,,,,,
+535,Javad ,Nekounam ,6,23,3,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Al-Kuwait');,,,,,
+536,Masoud ,Shojaei,7,23,4,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Las Palmas');,,,,,
+537,Reza ,Haghighi,8,23,3,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Persépolis');,,,,,
+538,Alireza ,Jahanbakhsh,9,23,4,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'NEC');,,,,,
+539,Karim ,Ansarifard,10,23,4,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Persépolis');,,,,,
+540,Ghasem ,Hadadifar,11,23,3,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Zob Ahan');,,,,,
+541,Alireza ,Haghighi,12,23,1,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Sporting Covilhã');,,,,,
+542,Hossein ,Mahini,13,23,2,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Persépolis');,,,,,
+543,Andranik ,Teymourian,14,23,3,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Esteghlal');,,,,,
+544,Pejman ,Montazeri,15,23,2,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Umm Salal');,,,,,
+545,Reza ,Ghoochannejhad,16,23,4,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Charlton Athletic');,,,,,
+546,Ahmad, Alenemeh,17,23,2,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Naft Tehran');,,,,,
+547,Bakhtiar ,Rahmani,18,23,3,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Foolad');,,,,,
+548,Hashem ,Beikzadeh,19,23,3,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Esteghlal');,,,,,
+549,Steven ,Beitashour,20,23,2,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Vancouver Whitecaps');,,,,,
+550,Ashkan ,Dejagah,21,23,4,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Fulham');,,,,,
+551,Daniel ,Davari,22,23,1,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Eintracht Braunschweig');,,,,,
+552,Mehrdad, Pouladi,23,23,2,(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Persépolis');,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
