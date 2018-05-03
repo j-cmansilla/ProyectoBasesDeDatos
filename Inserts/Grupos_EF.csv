@@ -91,4 +91,95 @@ ID	Nombre	Apellido	Camisola	Seleccion	Puesto	Club
 458	Brayan	Beckeles	21	20	2	Boavista		
 459	Donis	Escober	22	20	1	Olimpia		
 460	Marvin	Chavez	23	20	3	Chivas USA		
-								
+461	Sergio 	Romero	1	21	1	Mónaco		
+462	Ezequiel	 Garay	2	21	2	Benfica		
+463	Hugo 	Campagnaro	3	21	2	Inter de Milán		
+464	Pablo 	Zabaleta	4	21	2	Manchester City		
+465	Fernando 	Gago	5	21	3	Boca Juniors		
+466	Lucas 	Biglia	6	21	3	Lazio		
+467	Ángel 	Di María	7	21	3	Real Madrid		
+468	Enzo	 Pérez	8	21	3	Benfica		
+469	Gonzalo 	Higuaín	9	21	4	Napoli		
+470	Lionel 	Messi 	10	21	4	Barcelona		
+471	Maximiliano 	Rodríguez	11	21	3	Newell's Old Boys		
+472	Agustín 	Orion	12	21	1	Boca Juniors		
+473	Augusto 	Fernández	13	21	3	Celta de Vigo		
+474	Javier 	Mascherano	14	21	3	Barcelona		
+475	Martín 	Demichelis	15	21	2	Manchester City		
+476	Marcos	 Rojo	16	21	2	Sporting de Lisboa		
+477	Federico 	Fernández	17	21	2	Napoli		
+478	Rodrigo 	Palacio	18	21	4	Inter de Milán		
+479	Ricardo 	Álvarez	19	21	3	Inter de Milán		
+480	Sergio 	Agüero	20	21	4	Manchester City		
+481	Mariano 	Andújar	21	21	1	Napoli		
+482	Ezequiel 	Lavezzi	22	21	4	París Saint-Germain		
+483	José 	Basanta	23	21	2	Monterrey		
+484	Vincent  	Enyeama	1	24	1	Lille		
+485	Joseph 	Yobo	2	24	2	Fenerbahçe		
+486	Ejike 	Uzoenyi 	3	24	3	Enugu Rangers		
+487	Reuben 	Gabriel	4	24	3	Waasland-Beveren		
+488	Efe 	Ambrose	5	24	2	Celtic		
+489	Azubuike 	Egwuekwe	6	24	2	Warri Wolves		
+490	Ahmed	 Musa	7	24	4	CSKA Moscú		
+491	Peter 	Odemwingie	8	24	4	Stoke City		
+492	Emmanuel 	Emenike	9	24	4	Fenerbahçe		
+493	John 	Obi Mikel	10	24	3	Chelsea		
+494	Victor 	Moses	11	24	4	Chelsea		
+495	Kunle 	Odunlami	12	24	2	Sunshine Stars		
+496	Juwon 	Oshaniwa	13	24	2	Ashdod		
+497	Godfrey 	Oboabona	14	24	2	Çaykur Rizespor		
+498	Ramon 	Azeez	15	24	3	Almería		
+499	Austin 	Ejide	16	24	1	Hapoel Be'er Sheva		
+500	Ogenyi 	Onazi	17	24	3	Lazio		
+501	Michel 	Babatunde	18	24	4	Volyn Lutsk		
+502	Uche 	Nwofor	19	24	4	VVV Venlo		
+503	Michael 	Uchebo	20	24	4	Cercle Brugge		
+504	Chigozie 	Agbim	21	24	1	Gombe United		
+505	Kenneth 	Omeruo	22	24	2	Chelsea		
+506	Shola 	Ameobi	23	24	4			
+507	Asmir 	Begovi?	1	22	1	Stoke City		
+508	Avdija 	Vršajevi?	2	22	3	Hajduk Split		
+509	Ermin 	Bi?ak?i?	3	22	2	Eintracht Braunschweig		
+510	Emir 	Spahi? 	4	22	2	Bayer 04 Leverkusen		
+511	Sead 	Kolašinac	5	22	2	Schalke 04		
+512	Ognjen 	Vranješ	6	22	2	Elaz??spor		
+513	Muhamed	 Beši?	7	22	3	Ferencváros		
+514	Miralem 	Pjani?	8	22	3	Roma		
+515	Vedad 	Ibiševi?	9	22	4	Stuttgart		
+516	Zvjezdan 	Misimovi?	10	22	3	Guizhou Renhe		
+517	Edin	 Džeko	11	22	4	Manchester City		
+518	Jasmin 	Fejzi?	12	22	1	Aalen		
+519	Mensur 	Mujdža	13	22	3	Friburgo		
+520	Tino 	Suši?	14	22	3	Hajduk Split		
+521	Toni 	Šunji?	15	22	2	Zorya Lugansk		
+522	Senad 	Luli?	16	22	3	Lazio		
+523	Senijad 	Ibri?i?	17	22	3	Erciyesspor		
+524	Haris 	Medunjanin	18	22	3	Gaziantepspor		
+525	Edin	 Viš?a	19	22	4	Istanbul Ba?ak?ehir		
+526	Izet	 Hajrovi?	20	22	3	Galatasaray		
+527	Anel 	Hadži?	21	22	3	Sturm Graz		
+528	Asmir 	Avduki?	22	22	1	Borac Banja Luka		
+529	Sejad 	Salihovi?	23	22	3	Hoffenheim		
+530	Rahman 	Ahmadi	1	23	1	Sepahan		
+531	Khosro 	Heydari	2	23	4	Esteghlal		
+532	Ehsan 	Hajsafi	3	23	3	Sepahan		
+533	Jalal 	Hosseini	4	23	2	Persépolis		
+534	Amir 	Hossein Sadeghi	5	23	2	Esteghlal		
+535	Javad 	Nekounam 	6	23	3	Al-Kuwait		
+536	Masoud 	Shojaei	7	23	4	Las Palmas		
+537	Reza 	Haghighi	8	23	3	Persépolis		
+538	Alireza 	Jahanbakhsh	9	23	4	NEC		
+539	Karim 	Ansarifard	10	23	4	Persépolis		
+540	Ghasem 	Hadadifar	11	23	3	Zob Ahan		
+541	Alireza 	Haghighi	12	23	1	Sporting Covilhã		
+542	Hossein 	Mahini	13	23	2	Persépolis		
+543	Andranik 	Teymourian	14	23	3	Esteghlal		
+544	Pejman 	Montazeri	15	23	2	Umm Salal		
+545	Reza 	Ghoochannejhad	16	23	4	Charlton Athletic		
+546	Ahmad	 Alenemeh	17	23	2	Naft Tehran		
+547	Bakhtiar 	Rahmani	18	23	3	Foolad		
+548	Hashem 	Beikzadeh	19	23	3	Esteghlal		
+549	Steven 	Beitashour	20	23	2	Vancouver Whitecaps		
+550	Ashkan 	Dejagah	21	23	4	Fulham		
+551	Daniel 	Davari	22	23	1	Eintracht Braunschweig		
+552	Mehrdad	 Pouladi	23	23	2	Persépolis		
