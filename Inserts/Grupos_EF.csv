@@ -1,93 +1,94 @@
-ID	Nombre	Apellido	Camisola	Seleccion	Puesto	Club	
-369	Hugo	Lloris	1	19	1	(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'FC Bayern Muenchen');	
-370	Mathieu	Debuchy	2	19	2	(SELECT ID_CLUB FROM CLUBES  WHERE NOMBRE = 'Borussia Dortmund');	
-371	Patrice	Evra	3	19	2	(SELECT ID_CLUB FROM CLUBES  WHERE NOMBRE = 'SC Freiburg');	
-372	Raphaël	Varane	4	19	2	(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'FC Schalke 04');	
-373	Mamadou	Sakho	5	19	2	(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'FC Schalke 04');	
-374	Yohan	Cabaye	6	19	3	(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Real Madrid');	
-375	Rémy 	Cabella	7	19	4	(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'FC Bayern Muenchen');	
-376	Mathieu	Valbuena	8	19	3	(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Arsenal FC');	
-377	Oliver	Giroud	9	19	4	(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Chelsea FC');	
-378	Karim	Benzema	10	19	4	(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Arsenal FC');	
-379	Antonie	Griezmann	11	19	4	(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = ' SS Lazio');	
-380	Rio	Mavuba	12	19	3	(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Hannover 96');	
-381	Eliaquim	Mangala	13	19	2	(SELECT ID_CLUBFROM CLUBES WHERE NOMBRE = 'FC Bayern Muenchen');	
-382	Blaise	Matuidi	14	19	3	(SELECT ID_CLUBFROM CLUBES WHERE NOMBRE = 'Borussia Dortmund');	
-383	Bacary	Sagna	15	19	2	(SELECT ID_CLUBFROM CLUBES WHERE NOMBRE = 'FC Bayern Muenchen');	
-384	Stéphane	Ruffier	16	19	1	(SELECT ID_CLUBFROM CLUBES WHERE NOMBRE = 'Arsenal FC');	
-385	Lucas	Digne	17	19	2	(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'FC Bayern Muenchen');	
-386	Moussa	Sissoko	18	19	3	(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'FC Bayern Muenchen');	
-387	Paul	Pogba	19	19	3	(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'FC Bayern Muenchen');	
-388	Loïc 	Remy	20	19	4	(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'FC Bayern Muenchen');	
-389	Laurent	Koscielny	21	19	2	(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'UC Sampdoria');	
-390	Morgan	Schneiderlin	22	19	3	(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'Borussia Dortmund');	
-391	Mickael	Landreu	23	19	1	(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = ' Borussia Moenchengladbach');	
-392	Diego	Benaglio	1	17	1		
-393	Stephan	Lichtsteiner	2	17	2		
-394	Reto	Ziegler	3	17	2		
-395			4	17	2		
-396			5	17	2		414
-397			6	17	2		
-398			7	17	3		
-399			8	17	3		
-400			9	17	4		
-401			10	17	3		
-402			11	17	3		
-403			12	17	1		
-404			13	17	2		
-405			14	17	3		
-406			15	17	3		
-407			16	17	3		
-408			17	17	4		
-409			18	17	4		
-410			19	17	4		
-411			20	17	2		
-412			21	17	1		
-413			22	17	2		
-414			23	17	3		
-415			1	18			
-416			2	18			
-417			3	18			
-418			4	18			
-419			5	18			
-420			6	18			
-421			7	18			
-422			8	18			
-423			9	18			
-424			10	18			
-425			11	18			
-426			12	18			
-427			13	18			
-428			14	18			
-429			15	18			
-430			16	18			
-431			17	18			
-432			18	18			
-433			19	18			
-434			20	18			
-435			21	18			
-436			22	18			
-437			23	18			
-438			1	20			
-439			2	20			
-440			3	20			
-441			4	20			
-442			5	20			
-443			6	20			
-444			7	20			
-445			8	20			
-446			9	20			
-447			10	20			
-448			11	20			
-449			12	20			
-450			13	20			
-451			14	20			
-452			15	20			
-453			16	20			
-454			17	20			
-455			18	20			
-456			19	20			
-457			20	20			
-458			21	20			
-459			22	20			
-460			23	20			
+ID	Nombre	Apellido	Camisola	Seleccion	Puesto	Club		
+369	Hugo	Lloris	1	19	1	Tottenham Hotspur F. C.		(SELECT ID_CLUB FROM CLUBES WHERE NOMBRE = 'FC Bayern Muenchen');
+370	Mathieu	Debuchy	2	19	2	VfB Stuttgart		
+371	Patrice	Evra	3	19	2	París Saint-Germain F. C.		
+372	Raphaël	Varane	4	19	2	Real Madrid C. F.		
+373	Mamadou	Sakho	5	19	2	F. C. Barcelona		
+374	Yohan	Cabaye	6	19	3	Manchester United F. C.		
+375	Rémy 	Cabella	7	19	4	Atlético de Madrid		
+376	Mathieu	Valbuena	8	19	3	A. S. Mónaco F. C.		
+377	Oliver	Giroud	9	19	4	Chelsea F. C.		
+378	Karim	Benzema	10	19	4	París Saint-Germain F. C.		
+379	Antonie	Griezmann	11	19	4	F. C. Barcelona		
+380	Rio	Mavuba	12	19	3	F. C. Bayern Múnich		
+381	Eliaquim	Mangala	13	19	2	Chelsea F. C.		
+382	Blaise	Matuidi	14	19	3	Juventus F. C.		
+383	Bacary	Sagna	15	19	2	París Saint-Germain F. C.		
+384	Stéphane	Ruffier	16	19	1	Olympique de Marsella		
+385	Lucas	Digne	17	19	2	F. C. Barcelona		
+386	Moussa	Sissoko	18	19	3	Olympique de Marsella		
+387	Paul	Pogba	19	19	3	A. S. Mónaco F. C.		
+388	Loïc 	Remy	20	19	4	Manchester United F. C.		
+389	Laurent	Koscielny	21	19	2	Arsenal F. C.		
+390	Morgan	Schneiderlin	22	19	3	Atlético de Madrid		
+391	Mickael	Landreu	23	19	1	París Saint-Germain F. C.		
+392	Diego	Benaglio	1	17	1	Wolfsburgo		
+393	Stephan	Lichtsteiner	2	17	2	Juventus		
+394	Reto	Ziegler	3	17	2	Sassuolo		
+395	Philippe	Senderos	4	17	2	Valencia		
+396	Steve	Von Bergen	5	17	2	Young Boys		
+397	Michael	Lang	6	17	2	Grasshopper		
+398	Tranquillo	Barnetta	7	17	3	Eintracht Frankfurt		
+399	Gokhan	Inler	8	17	3	Napoli		
+400	Haris	Seferovic	9	17	4	Real Sociedad		
+401	Granit	Xhaka	10	17	3	Borussia Mönchengladbach		
+402	Valon	Behrami	11	17	3	Napoli		
+403	Yann	Sommer	12	17	1	Basilea		
+404	Ricardo	Rodriguez	13	17	2	Wolfsburgo		
+405	Valentin	Stocker	14	17	3	Basilea		
+406	Blerim	Dzemaili	15	17	3	Napoli		
+407	Gelson	Fernandes	16	17	3	Friburgo		
+408	Mario	Gavranovic	17	17	4	Zürich		
+409	Admir	Mehmedi	18	17	4	Friburgo		
+410	Josip	Drmic	19	17	4	Núremberg		
+411	Johan	Djourou	20	17	2	Hamburgo		
+412	Roman	BÜRKI	21	17	1	Grasshopper		
+413	Fabian	Schaer	22	17	2	Basilea		
+414	Xherdan	Shaqiri	23	17	3	Bayern de Múnich		
+415	Maximo 	Banguerra	1	18	1	Barcelona		
+416	Jorge	Guagua	2	18	2	Emelec		
+417	Frickson	Erazo	3	18	2	Flamengo		
+418	Juan	Paredes	4	18	2	Barcelona		
+419	Alex	Ibarra	5	18	3	Vitesse		
+420	Christian	Noboa	6	18	3	Dinamo Moscú		
+421	Jefferson	Montero	7	18	3	Morelia		
+422	Edison 	Mendez	8	18	3	Independiente Santa Fe		
+423	Joao	Rojas	9	18	4	Cruz Azul		
+424	Walter	Ayovi	10	18	3	Pachuca		
+425	Felipe	Caicedo	11	18	4	Al-Jazira		
+426	Adrian	Bone	12	18	1	El Nacional		
+427	Enner	Valencia	13	18	4	Pachuca		
+428	Oswaldo	Minda	14	18	3	Chivas USA		
+429	Michael	Arroyo	15	18	3	América		
+430	Antonio	Valencia	16	18	3	Manchester United		
+431	Jaimen	Ayovi	17	18	4	Tijuana		
+432	Oscar	Bagui	18	18	2	Emelec		
+433	Luis	Saritama	19	18	3	Barcelona		
+434	Fidel	Martinez	20	18	3	Tijuana		
+435	Gabriel	Achilier	21	18	2	Emelec		
+436	Alexander	Dominguez	22	18	1	LDU Quito		
+437	Carlos	Gruezo	23	18	3	Stuttgart		
+438	Luis	Lopez	1	20	1	Real España		
+439	Osman	Chavez	2	20	2	Qingdao Jonoon		
+440	Maynor	Figueroa	3	20	2	Hull City		
+441	Juan Pablo	Montes	4	20	2	Motagua		
+442	Victor 	Bernardez	5	20	2	San Jose Earthquakes		
+443	Juan Carlor	Garcia	6	20	2	Wigan Athletic		
+444	Emilio	Izaguirre	7	20	3	Celtic		
+445	Wilson	Palacios	8	20	3	Stoke City		
+446	Jerry	Palacios	9	20	3	Alajuelense		
+447	Mario	Martinez	10	20	3	Real España		
+448	Jerry	Bengtson	11	20	4	C.A. Belgrano		
+449	Edder	Delgado	12	20	3	Real España		
+450	Carlos	Costly	13	20	4	Gaziantepspor		
+451	Boniek	Garcia	14	20	3	Houston Dynamo		
+452	Roger	Espinoza	15	20	3	Wigan Athletic		
+453	Rony	Martinez	16	20	4	Real Sociedad		
+454	Andy	Najar	17	20	3	Anderlecht		
+455	Noel	Valladares	18	20	1	Olimpia		
+456	Luis	Garrido	19	20	3	Houston Dynamo		
+457	Jorge	Claros	20	20	3	Sporting Kansas City		
+458	Brayan	Beckeles	21	20	2	Boavista		
+459	Donis	Escober	22	20	1	Olimpia		
+460	Marvin	Chavez	23	20	3	Chivas USA		
+								
